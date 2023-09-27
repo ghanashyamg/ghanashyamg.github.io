@@ -1,7 +1,7 @@
 {
   "name": "ghanashyam-portfolio",
   "version": "0.1.0",
-  "homepage": "https://gshyam46.github.io",
+  "homepage": "https://ghanashyamg.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
