@@ -9,7 +9,7 @@ export const Bio = {
     development principles and a proven ability to implement innovative solutions.`,
   github: "https://github.com/gshyam46",
   resume:
-    "https://drive.google.com/file/d/1gcKonoDO8VP78LWgTMFpG9mLYXEKKqU0/view?usp=sharing",
+    "https://drive.google.com/file/d/1AZ6FdQbPbayuEm8migkPTcCr1tqiXDL9/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ghanashyam-45844624a/",
   twitter: "https://twitter.com/GShyam46",
   insta: "https://www.instagram.com/__.shyaamm.__/",
@@ -321,8 +321,8 @@ export const projects = [
       "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
     tags: ["ReactNative", "FireBase", "FireSTore", "Android Studio"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
+    github: "https://github.com/gshyam46/BrainStorm",
+    webapp: "",
   },
   // {
   //   id: 8,
